@@ -10,3 +10,5 @@ cd php-education
 ```bash
 up
 ```
+
+http://localhost:8080/
