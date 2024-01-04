@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  php:
+    image: webdevops/php-nginx:8.2-alpine
+    volumes:
+      - .:/app
+    ports:
+      - 8080:80
