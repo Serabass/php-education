@@ -8,7 +8,8 @@ cd php-education
 ```
 Подниаем контейнеры:
 ```bash
-up
+up.bat - для Windows
+up.sh - для Linux
 ```
 
 http://localhost:8080/
