@@ -1,6 +1,9 @@
 Устанавливаем Docker, чтобы не засорять систему.
 https://www.docker.com/products/docker-desktop/
 
+Устанавливаем git
+https://git-scm.com/
+
 Клонируем проект:
 ```bash
 git clone https://github.com/Serabass/php-education.git
