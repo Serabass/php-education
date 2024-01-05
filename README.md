@@ -4,6 +4,11 @@ https://www.docker.com/products/docker-desktop/
 Устанавливаем git
 https://git-scm.com/
 
+В качестве IDE рекомендую VSCode
+https://code.visualstudio.com/
+
+
+
 Клонируем проект:
 ```bash
 git clone https://github.com/Serabass/php-education.git
@@ -20,4 +25,7 @@ up.bat - для Windows
 up.sh - для Linux
 ```
 
-http://localhost:8080/
+Переходим в браузере на http://localhost:8080/
+Должны увидеть Hello World!
+
+
