@@ -8,6 +8,7 @@ https://git-scm.com/
 https://code.visualstudio.com/
 
 
+Открываем любой терминал
 
 Клонируем проект:
 ```bash
