@@ -20,7 +20,7 @@ git clone https://github.com/Serabass/php-education.git
 cd php-education
 ```
 
-Подниаем контейнеры:
+Поднимаем контейнеры:
 ```bash
 up.bat - для Windows
 up.sh - для Linux
